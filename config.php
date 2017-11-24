@@ -2,7 +2,7 @@
  
 //connect to MySql database
 try {
-    $dbc=new PDO("mysql:host=localhost;dbname=creative_tool","root","xamppnew") 
+    $dbc=new PDO("mysql:host=localhost;dbname=","root","") 
      or die("Unable to connect.");
 }
 catch(PDOException $e)
