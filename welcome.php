@@ -6,5 +6,4 @@ if(!isset($_SESSION['test'])) {
 }
 require_once('login_includes.php');
 ?>
-
-<h2>Welcome to Angularjs dashboard.</h2>
+<h2>Welcome to Angularjs dashboard - Master.</h2>
